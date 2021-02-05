@@ -50,5 +50,12 @@ body
 {
     background: white;
     padding: 1em;
+}
 
+#footer
+{
+background: #a2eed5;  
+color: black;
+text-align: center;
+padding: 0.5em;  
 }
